@@ -1,0 +1,10 @@
+BUGS
+
+Tabs currently share visibility with each other. 
+	-Problems arise if opening a tab, then another, closing one will close the background but leave the tab portion open.
+
+FEATURES TO ADD
+
+
+
+FUNCTIONALITY TO ADD
