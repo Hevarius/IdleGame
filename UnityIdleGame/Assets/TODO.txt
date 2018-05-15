@@ -5,6 +5,11 @@ Tabs currently share visibility with each other.
 
 FEATURES TO ADD
 
+Icons for shop items.
+Defense feature
+	- Add a timed wave system of local aliens to attack your base.
 
 
 FUNCTIONALITY TO ADD
+
+Open and close tabs with the tab background raising and lowering.
